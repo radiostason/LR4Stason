@@ -5,7 +5,7 @@ public class Main {
         // int[] myAges2 = { 15, 35, 40, 70 };
         // checkAgeRange(myAges1);
         // checkAgeRange(myAges2);
-        // int result = sum(2, 2);
+        int result = sum(2, 2);
         // System.out.println("Sum is " + result);
         int[] numbers = {1, 2, 3, 4, 5, 6, 7};
         breakSample(numbers);

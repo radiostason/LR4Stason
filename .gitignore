@@ -1,0 +1,9 @@
+# ignore the folder and all subfolders below
+/.idea/*
+/out/*
+
+# ignore the file *.iml ONLY in current project folder
+*.iml
+
+# ignore the folder and all subfolders below
+target/*

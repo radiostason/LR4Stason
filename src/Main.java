@@ -41,6 +41,7 @@ public class Main {
                 // цикл тоже прерывается
             }
             System.out.println(number);
+            System.out.println("add Alex");
         }
     }
 
